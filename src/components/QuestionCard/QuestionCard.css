@@ -1,0 +1,23 @@
+.question{
+    padding: 18px 0px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 80%;
+    overflow-wrap: break-word;
+}
+.answers-container{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    flex-wrap: wrap;
+    overflow-wrap: break-word;
+}
+.answer{
+    width: 41%;
+    padding: 13px;
+    background-color: #E8E8E8;
+    border-radius: 5px;
+    margin-bottom: 31px;
+    cursor: pointer;
+    font-size: 20px;
+}

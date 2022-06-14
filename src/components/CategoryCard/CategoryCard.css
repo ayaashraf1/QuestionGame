@@ -1,0 +1,15 @@
+.category-container{
+    width: 28%;
+    background-color: #A8A8A8;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    border:1px solid black;
+}
+.disable-category{
+    opacity: 0.5;
+    cursor: none;
+    pointer-events: none;
+}

@@ -1,0 +1,12 @@
+.level-card{
+width:30%;
+height:100px;
+display:flex;
+align-items: center;
+justify-content: center;
+background: #E8E8E8;
+cursor: pointer;
+border-radius: 5px;
+border: 1px solid black;
+font-weight: bold;
+}

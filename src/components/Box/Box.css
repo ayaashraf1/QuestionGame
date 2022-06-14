@@ -1,0 +1,17 @@
+.box-container{
+    background: #A8A8A8;
+    width: 780px;
+    height: 352px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.levels-container{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+}
